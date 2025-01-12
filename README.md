@@ -2,8 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Natural Language Processing(NLP)
 - 💞️ I’m looking to collaborate on AI and Machine Learning Projects
-- 📫 How to reach me:  Twitter: @KPDevQuest , 
-                        Reddit: @Ok-Charge-5232
+- 📫 How to reach me:  Twitter: @KP_012pixel
 
 
 <!---
