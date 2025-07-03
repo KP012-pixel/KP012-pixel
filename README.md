@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @KP012-pixel
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Natural Language Processing(NLP)
-- 💞️ I’m looking to collaborate on AI and Machine Learning Projects
-- 📫 How to reach me:  Twitter: @KP_012pixel
+# KP012-pixel
 
+Working on systems that involve language, automation, and data processing. Focused on applied AI, with an interest in tools that operate reliably at scale.
 
-<!---
-KP012-pixel/KP012-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently contributing to projects involving document analysis and information extraction.
+
+Always open to improving workflows through pragmatic, well-engineered solutions.
