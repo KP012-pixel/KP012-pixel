@@ -7,4 +7,3 @@ Currently contributing to projects involving document analysis and information e
 
 Always open to improving workflows through pragmatic, well-engineered solutions.
 
-![](hello.apng)
